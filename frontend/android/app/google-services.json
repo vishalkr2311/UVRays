@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6816285142",
+    "project_id": "blindmeetv",
+    "storage_bucket": "blindmeetv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6816285142:android:01fb81cc4ba0ca641ce477",
+        "android_client_info": {
+          "package_name": "com.v1.blindmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_j4JrRx8eIvksjl08zURnqm4qvPZSk4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
